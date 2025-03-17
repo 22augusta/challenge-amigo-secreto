@@ -125,6 +125,16 @@ button {
     background-color: #a1a1a1;
 }
 
+.button-reset {
+    background-color: var(--color-tertiary);
+    color: var(--color-text);
+    margin-top: 20px;
+}
+
+.button-reset:hover {
+    background-color: #a1a1a1;
+}
+
 /* Listas */
 ul {
     list-style-type: none;
