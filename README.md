@@ -1,4 +1,4 @@
-# challenge-amigo-secreto
+# Challenge Amigo Secreto
 Desafio Oracle
 # Sorteio de Amigos 🎲
 
